@@ -31,4 +31,4 @@ about-screen-rn/
 
 ## ScreenShots
 
-![Aperçu de l'application](src/ScreenShots/2.png)
+<img width="296" height="328" alt="image" src="https://github.com/user-attachments/assets/017a2e84-a5b4-4539-ba9f-5fb111cb44e9" />
