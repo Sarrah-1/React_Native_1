@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "about-screen-rn",
+    "slug": "about-screen-rn",
+    "version": "1.0.0",
+    "scheme": "aboutscreenrn",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "plugins": ["expo-router"],
+    "web": { "bundler": "metro" }
+  }
+}
